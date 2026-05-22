@@ -1,5 +1,5 @@
 <?php
-require('../db/conn.php');
+// require('../db/conn.php');
 
 class User {
     public $name;
